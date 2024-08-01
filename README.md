@@ -1,3 +1,3 @@
-# module
+# kresse box
 
-A template repository to create a new eurorack module.
+A eurorack box to put your screws plants or whatever you like.
